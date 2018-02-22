@@ -1,0 +1,10 @@
+uuid: 9cd057f3-87cb-49c5-a402-01e4906e42ef
+langcode: fr
+status: true
+dependencies:
+  module:
+    - comment
+id: comment.token
+label: Token
+targetEntityType: comment
+cache: true
